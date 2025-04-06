@@ -58,8 +58,3 @@ The notebook includes:
 - Model evaluation metrics
 
 These outputs demonstrate the effectiveness of both YOLOv8 and the hybrid optimization strategy.
-
-## Acknowledgements
-
-- [entbappy](https://github.com/entbappy/YOLO-v8-Object-Detection) for the original YOLOv8 tutorial and notebook
-- [Ultralytics](https://github.com/ultralytics/ultralytics) for the YOLOv8 framework
